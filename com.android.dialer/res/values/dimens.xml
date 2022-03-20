@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="oneplus_contorl_text_size_title">20.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_subheading">16.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_body1">14.0sp</dimen>
+<dimen name="dialpad_key_letters_size">14.0sp</dimen>
+<dimen name="list_date">14.0sp</dimen>
+
+<dimen name="listitem_secondarytext_size">14.0sp</dimen>
+<dimen name="listitem_stamp_size">14.0sp</dimen>
+<dimen name="preference_category_font_size">14.0sp</dimen>
+<dimen name="list_module_title">14.0sp</dimen>
+<dimen name="list_text">14.0sp</dimen>
+<dimen name="tab_unselected">14.0sp</dimen>
+<dimen name="text_subhead">14.0sp</dimen>
+<dimen name="notification_subtext_size">14.0sp</dimen>
+<dimen name="notification_action_text_size">14.0sp</dimen>
+<dimen name="quick_index_bar_text_size">14.0sp</dimen>
+<dimen name="oneplus_call_log_secondary_text_size">14.0sp</dimen>
+<dimen name="call_log_list_item_actions_text_size">14.0sp</dimen>
+<dimen name="widget_text_size_snippet">14.0sp</dimen>
+<dimen name="ab_double_subhead">14.0sp</dimen>
+<dimen name="text_secondary">14.0sp</dimen>
+<dimen name="text_size_caption_material">14.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_subtitle">14.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_body2">14.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_button">14.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_descriptions">14.0sp</dimen>
+<dimen name="abc_text_size_caption_material">14.0sp</dimen>
+<dimen name="tab_unread_count_text_size">14.0sp</dimen>
+<dimen name="call_log_detail_text_size">14.0sp</dimen>
+<dimen name="blocked_number_secondary_text_size">14.0sp</dimen>
+<dimen name="oneplus_favorite_tile_phone_type_text_size">14.0sp</dimen>
+<dimen name="oneplus_dialpad_regional_text_size">14.0sp</dimen>
+</resources>

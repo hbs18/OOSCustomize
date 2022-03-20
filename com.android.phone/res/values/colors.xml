@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
 	<!--Settings Accent-->
 	<color name="primary_default_light">#ff42A5F6</color>
 	<color name="accent_default_light">#ff42A5F6</color>
@@ -8,33 +9,43 @@
 
 	<!--Settings Accent Light Theme-->
 	<color name="primary_golden_light">#ff009688</color>  <!--Teal-->
-	<color name="primary_lemon_yellow_light">#ffE5A544</color>  <!--Orange-->
-	<color name="primary_grass_green_light">#ff3F51B5</color>  <!--Material Indigo-->
-	<color name="primary_charm_purple_light">#ff4CAF50</color>  <!--Material Green-->
-	<color name="primary_sky_blue_light">#ffbc052d</color>  <!--Material Red-->
-	<color name="primary_vigour_red_light">#ff4b4b4b</color>  <!--Grey-->
-	<color name="primary_fashion_pink_light">#ff719376</color>  <!--Mint-->
+	<color name="primary_lemon_yellow_light">#ff66381a</color>  <!--Orange-->
+	<color name="primary_grass_green_light">#ff4b4b4b</color>  <!--Grey-->
+	<color name="primary_charm_purple_light">#ff162554</color>  <!--Faded Blue-->
+	<color name="primary_sky_blue_light">#ff165445</color>  <!--Mint-->
+	<color name="primary_vigour_red_light">#ff3c1f60</color>  <!--Salmon-->
+	<color name="primary_fashion_pink_light">#ffa20909</color>  <!--Red-->
 	<color name="accent_golden_light">#ff009688</color>  <!--Teal-->
-	<color name="accent_lemon_yellow_light">#ffE5A544</color>  <!--Orange-->
-	<color name="accent_grass_green_light">#ff3F51B5</color>  <!--Material Indigo-->
-	<color name="accent_charm_purple_light">#ff4CAF50</color>  <!--Material Green-->
-	<color name="accent_sky_blue_light">#ffbc052d</color>  <!--Material Red-->
-	<color name="accent_vigour_red_light">#ff4b4b4b</color>  <!--Grey-->
-	<color name="accent_fashion_pink_light">#ff719376</color>  <!--Mint-->
+	<color name="accent_lemon_yellow_light">#ff66381a</color>  <!--Orange-->
+	<color name="accent_grass_green_light">#ff4b4b4b</color>  <!--Grey-->
+	<color name="accent_charm_purple_light">#ff162554</color>  <!--Faded Blue-->
+	<color name="accent_sky_blue_light">#ff165445</color>  <!--Mint-->
+	<color name="accent_vigour_red_light">#ff3c1f60</color>  <!--Salmon-->
+	<color name="accent_fashion_pink_light">#ffa20909</color>  <!--Red-->
 
 	<!--Settings Accent Dark Theme-->
 	<color name="primary_golden_dark">#ff009688</color>
 	<color name="primary_lemon_yellow_dark">#ffE5A544</color>
-	<color name="primary_grass_green_dark">#ff3F51B5</color>
-	<color name="primary_charm_purple_dark">#ff4CAF50</color>
-	<color name="primary_sky_blue_dark">#ffbc052d</color>
-	<color name="primary_vigour_red_dark">#ffffffff</color>
-	<color name="primary_fashion_pink_dark">#ff99C99F</color>
+	<color name="primary_grass_green_dark">#ffd1d1d1</color>
+	<color name="primary_charm_purple_dark">#ff55759b</color>
+	<color name="primary_sky_blue_dark">#ff719376</color>
+	<color name="primary_vigour_red_dark">#ffc999c3</color>
+	<color name="primary_fashion_pink_dark">#fff04c40</color>
 	<color name="accent_golden_dark">#ff009688</color>
 	<color name="accent_lemon_yellow_dark">#ffE5A544</color>
-	<color name="accent_grass_green_dark">#ff3F51B5</color>
-	<color name="accent_charm_purple_dark">#ff4CAF50</color>
-	<color name="accent_sky_blue_dark">#ffbc052d</color>
-	<color name="accent_vigour_red_dark">#ffffffff</color>
-	<color name="accent_fashion_pink_dark">#ff99C99F</color>
-</resources>
+	<color name="accent_grass_green_dark">#ffd1d1d1</color>
+	<color name="accent_charm_purple_dark">#ff55759b</color>
+	<color name="accent_sky_blue_dark">#ff719376</color>
+	<color name="accent_vigour_red_dark">#ffc999c3</color>
+	<color name="accent_fashion_pink_dark">#fff04c40</color>
+
+		
+	<color name="oneplus_contorl_bg_color_steppers_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_dialogs_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_menu_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_bottomsheets_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_cardview_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_listbg_dark">#ff212121</color>
+    
+    <color name="oneplus_contorl_divider_color_dark">#ff1f1f1f</color>
+	</resources>

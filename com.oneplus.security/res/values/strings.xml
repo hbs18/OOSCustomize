@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="settings_contorl_font_family_title">sans-serif-medium</string>
+<string name="settings_contorl_font_family_title_extended">sans-serif-medium</string>
+<string name="settings_contorl_font_family_display4">sans-serif-medium</string>
+<string name="oneplus_contorl_font_family_subtitle">sans-serif-medium</string>
+<string name="settings_contorl_font_family_button">sans-serif-medium</string>
+</resources>

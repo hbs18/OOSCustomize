@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="settings_contorl_text_size_title">20.0sp</dimen>
+<dimen name="settings_contorl_text_size_subheading">16.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_title">20.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_subheading">16.0sp</dimen>
+<dimen name="settings_contorl_text_size_body1">14.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_body1">14.0sp</dimen>
+<dimen name="settings_contorl_text_size_subtitle">14.0sp</dimen>
+<dimen name="settings_contorl_text_size_body2">14.0sp</dimen>
+<dimen name="settings_contorl_text_size_button">14.0sp</dimen>
+<dimen name="text_secondary">14.0sp</dimen>
+<dimen name="text_size_caption_material">14.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_subtitle">14.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_body2">14.0sp</dimen>
+<dimen name="oneplus_contorl_text_size_button">14.0sp</dimen>
+<dimen name="abc_text_size_caption_material">14.0sp</dimen>
+</resources>

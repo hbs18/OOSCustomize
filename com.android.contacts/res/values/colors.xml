@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="oneplus_contorl_bg_color_steppers_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_dialogs_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_menu_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_bottomsheets_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_cardview_dark">#ff212121</color>
+    <color name="oneplus_contorl_bg_color_listbg_dark">#ff212121</color>
+    
+    <color name="oneplus_contorl_divider_color_dark">#ff1f1f1f</color>
+</resources>
